@@ -1,0 +1,14 @@
+{
+  "name": "github-scraper",
+  "version": "1.0.0",
+  "description": "Scrape a GitHub repo for info.",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "author": "Max Clinton",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
